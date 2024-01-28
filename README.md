@@ -1,4 +1,4 @@
-### Olá! Sou a Eduarda Leigue!
+### Olá! Sou a Eduarda Leigue! <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/adaf3ce9-a9af-43c4-b7a9-c5e91ab2a110">
 
 💻 Atualmente curso graduação em ADS!
 
@@ -22,5 +22,4 @@
   <img align="center" alt="duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
    <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/d9238b8e-cd15-487e-beca-1052c606eb78">
 </div>
