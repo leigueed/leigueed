@@ -1,15 +1,14 @@
-### Olá! Sou a Eduarda Leigue! <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/4dad9a5f-da9b-4c04-a4ab-89cc1c43431d"> 
+### Olá! Sou a Eduarda Leigue! ✨ <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/4dad9a5f-da9b-4c04-a4ab-89cc1c43431d">
 
-💻 Atualmente curso graduação em ADS!
+📚 Jovem moça estudante de ADS!
 
-- Estudando HTML, CSS e Java Script.
+- Em processo... (HTML, CSS e Java Script).
 - Desejo futuramente trabalhar como dev front-end!
 
-💬 Disponível para receber dicas e conselhos!
+📧 Disponível para receber dicas e conselhos!
 
 <div>
   <a href="https://instagram.com/leigueed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="ed.leigue@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
