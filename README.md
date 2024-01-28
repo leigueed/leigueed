@@ -11,7 +11,7 @@ Uma Jovem moça estudante de ADS!
   <a href="https://instagram.com/leigueed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
- <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/4dad9a5f-da9b-4c04-a4ab-89cc1c43431d">
+ <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/4f2461a8-4548-4335-8d64-635a16b9e2bf">
 
 <div>
   <a href="https://github.com/leigueed">
