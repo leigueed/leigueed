@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/leigueed">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=leigueed&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api?username=leigueed&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -22,5 +22,5 @@
   <img align="center" alt="duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
    <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="right" alt="dudagif" src="https://discord.com/channels/@me/1132479903481208995/1201009487415349258">
+  <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/d9238b8e-cd15-487e-beca-1052c606eb78">
 </div>
