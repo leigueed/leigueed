@@ -1,4 +1,4 @@
-### Olá! Sou a Eduarda Leigue! <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/8ff41f7e-fd8d-4109-ad9f-18ad101e53c7"> 
+### Olá! Sou a Eduarda Leigue! <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/4dad9a5f-da9b-4c04-a4ab-89cc1c43431d"> 
 
 💻 Atualmente curso graduação em ADS!
 
