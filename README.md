@@ -8,8 +8,7 @@
 
 <div>
   <a href="https://github.com/leigueed">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=leigueed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leigueed&layout=compact&langs_count=16&theme=dark"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=leigueed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div>
