@@ -11,7 +11,6 @@ Uma Jovem moça estudante de ADS!
   <a href="https://instagram.com/leigueed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
 <div>
   <a href="https://github.com/leigueed">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=leigueed&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -23,4 +22,4 @@ Uma Jovem moça estudante de ADS!
    <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 </div>
 
-<img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/e3ba7c57-d9fb-48f9-bee9-ad272a90ec58">
+<img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/c4937c86-6078-4a3b-a5fb-06b4e33c07a0">
