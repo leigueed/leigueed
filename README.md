@@ -1,4 +1,4 @@
-### Olá! Sou a Eduarda Leigue! ✨  <img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/c4937c86-6078-4a3b-a5fb-06b4e33c07a0">
+### Olá! Sou a Eduarda Leigue! ✨
 
 Uma Jovem moça estudante de ADS!
 
@@ -21,3 +21,5 @@ Uma Jovem moça estudante de ADS!
   <img align="center" alt="duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
    <img align="center" alt="duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 </div>
+
+<img align="right" alt="dudagif" src="https://github.com/leigueed/leigueed/assets/157442206/c4937c86-6078-4a3b-a5fb-06b4e33c07a0">
