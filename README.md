@@ -2,7 +2,7 @@
 
 Uma Jovem moça estudante de ADS!
 
-- Aprendendo a programar (HTML, CSS e Java Script).
+- Aprendendo a desenvolver em (HTML, CSS e Java Script).
 - Desejo futuramente trabalhar como dev front-end!
 
 📧 Disponível para receber dicas e conselhos diante desta longa caminhada! 
