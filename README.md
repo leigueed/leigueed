@@ -1,5 +1,5 @@
 ### < Hello World! /> ✨️
-Sou a Eduarda Leigue
+Sou a Eduarda Leigue ou melhor, Duda!
 
 Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas. Com desejo futuro de trabalhar como dev front-end!
 
