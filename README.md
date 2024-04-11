@@ -1,4 +1,5 @@
-### < Hello World! Sou a Eduarda Leigue />
+### < Hello World!✨️
+Sou a Eduarda Leigue />
 
 Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas. Com desejo futuro de trabalhar como dev front-end!
 
