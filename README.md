@@ -1,8 +1,6 @@
 ### < Hello World! Sou a Eduarda Leigue />
 
-Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas!
-
-Com desejo futuro de trabalhar como dev front-end!
+Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas. Com desejo futuro de trabalhar como dev front-end!
 
 📧 Disponível para receber dicas e conselhos diante desta longa caminhada! 
 
