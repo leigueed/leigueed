@@ -2,7 +2,7 @@
 
 Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas!
 
-- Desejo futuramente trabalhar como dev front-end!
+Com desejo futuro de trabalhar como dev front-end!
 
 📧 Disponível para receber dicas e conselhos diante desta longa caminhada! 
 
