@@ -1,8 +1,7 @@
-### Olá! Sou a Eduarda Leigue! ✨
+### <Hello World! Sou a Eduarda Leigue/> ✨
 
-Uma Jovem moça estudante de ADS!
+Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas!
 
-- Aprendendo a desenvolver em (HTML, CSS e Java Script).
 - Desejo futuramente trabalhar como dev front-end!
 
 📧 Disponível para receber dicas e conselhos diante desta longa caminhada! 
