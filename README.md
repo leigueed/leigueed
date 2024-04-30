@@ -1,7 +1,7 @@
 ### < Hello World! /> ✨️
 Sou a Eduarda Leigue ou melhor, Duda!
 
-Uma jovem-moça caloura em Análise e Desenvolvimento de Sistemas. Com desejo futuro de trabalhar como dev front-end!
+Uma jovem-moça curiosa e esperta desde de pequena, além de uma caloura em Análise e Desenvolvimento de Sistemas aspirante a dev front-end!
 
 📧 Disponível para receber dicas e conselhos diante desta longa caminhada! 
 
