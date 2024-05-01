@@ -1,8 +1,8 @@
 ### < Hello World! /> ✨️
 Sou a Eduarda Leigue ou melhor, Duda!
 Uma jovem-moça curiosa e esperta desde de pequena, além de uma caloura em Análise e Desenvolvimento de Sistemas aspirante a dev front-end!
-📧 Disponível para receber dicas e conselhos diante desta longa linha de códigos! 
 
+📧 Disponível para receber dicas e conselhos diante desta longa linha de códigos! 
 <div>
   <a href="https://instagram.com/leigueed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "ed.leigue@homtail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
