@@ -1,4 +1,4 @@
-<img aliggn= 'right' alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
+<img aliggn= 'right' alt="Night Coding" src="./assets_readme/girl.jpg" width='300'/>
 
 ### Olá, aqui é a Eduarda Leigue!
 
