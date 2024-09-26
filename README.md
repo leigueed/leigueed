@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" width='350' alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" width='370' alt="ilustração do status do github">
 
 ### Olá, aqui é a Eduarda Leigue!
 
