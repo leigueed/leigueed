@@ -1,6 +1,6 @@
 <p align="center">EDUARDA LEIGUE</p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" alt="ilustração do status do github">
 
 ### Olá, meu nome é Eduarda Leigue!
 
