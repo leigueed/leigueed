@@ -1,4 +1,4 @@
-<h1 align="center">EDUARDA LEIGUE 💻</h1>
+<h2 align="center">EDUARDA LEIGUE 💻</h2>
 
 <p align="center">
   <img alt="Night Coding" src="./assets_readme/girl.jpg" width='800'/>
