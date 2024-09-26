@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" width='370' alt="ilustração do status do github">
+<img aliggn= 'right' alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 ### Olá, aqui é a Eduarda Leigue!
 
@@ -8,8 +8,8 @@
 
 ##
 
-<p align="center">
-  <img alt="Night Coding" src="./assets_readme/girl.jpg" width='600'/>
+<p>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" width='370' alt="ilustração do status do github">
 </p>
 
 <div align="center">
