@@ -1,4 +1,4 @@
-### EDUARDA LEIGUE, UMA ESTUDANTE E ENTUSIASTA A WEB DEVELOPER! 💻✨
+### EDUARDA LEIGUE, UMA ESTUDANTE E ENTUSIASTA A WEB DEVELOPER! 💻
 
 <div>
   <img align="center" alt="eduarda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
