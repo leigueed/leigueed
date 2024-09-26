@@ -1,4 +1,4 @@
-### OLÁ, EDUARDA LEIGUE, UMA ESTUDANTE E ENTUSIASTA A WEB DEVELOPER! 💻
+### <HELLO WORLD/> EDUARDA LEIGUE, UMA ESTUDANTE E ENTUSIASTA A WEB DEVELOPER! 💻
 Sou a Eduarda Leigue ou melhor, Duda!
 Uma jovem-moça curiosa e esperta desde de pequena, além de uma caloura em Análise e Desenvolvimento de Sistemas aspirante a dev front-end!
 
