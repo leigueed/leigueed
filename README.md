@@ -1,6 +1,4 @@
 ### EDUARDA LEIGUE, UMA ESTUDANTE E ENTUSIASTA A WEB DEVELOPER! 💻
-Sou a Eduarda Leigue ou melhor, Duda!
-Uma jovem-moça curiosa e esperta desde de pequena, além de uma caloura em Análise e Desenvolvimento de Sistemas aspirante a dev front-end!
 
 <div>
   <img align="center" alt="eduarda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
