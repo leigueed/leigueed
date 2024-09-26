@@ -1,4 +1,4 @@
-#### EDUARDA LEIGUE, UMA ENTUSIASTA A WEB DEVELOPER! 💻
+#### EDUARDA LEIGUE! 💻
 
 <img alt="Night Coding" src="./assets_readme/girl.jpg" align="center"/>
 
