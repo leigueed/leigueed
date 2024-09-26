@@ -1,6 +1,6 @@
 ### Olá, aqui é a Eduarda Leigue!
 
-<img align="center" src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-dark&logo=GitHub" alt="Static GitHub"/>
+<img align="center" src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-bege&logo=GitHub" alt="Static GitHub"/>
 
 <p align="center"> Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer 💻</p>
 
