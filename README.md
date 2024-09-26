@@ -1,6 +1,6 @@
 ### EDUARDA LEIGUE! 💻
 
-<img alt="Night Coding" align="justify" src="./assets_readme/girl.jpg" width='800'/>
+<img alt="Night Coding" src="./assets_readme/girl.jpg" width='800' align="justify"/>
 
 <div align="center">
   <img align="center" alt="eduarda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
