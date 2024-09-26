@@ -1,4 +1,4 @@
-### < Hello World! /> ✨️
+### Olá! Eduarda Leigue aqui, estudante e entusiasta a web developer 💻✨️
 Sou a Eduarda Leigue ou melhor, Duda!
 Uma jovem-moça curiosa e esperta desde de pequena, além de uma caloura em Análise e Desenvolvimento de Sistemas aspirante a dev front-end!
 
