@@ -9,7 +9,7 @@
 ##
 
 <p>
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" width='370' alt="ilustração do status do github">
+  <img src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" width='370' alt="ilustração do status do github">
 </p>
 
 <div align="center">
