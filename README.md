@@ -1,7 +1,7 @@
 <p align="center">EDUARDA LEIGUE</p>
 
 <p align="center">
-  <img alt="Night Coding" src="./assets_readme/girl.jpg" width='800'/>
+  <img alt="Night Coding" src="./assets_readme/girl.jpg" width='600'/>
 </p>
 
 <div align="center">
