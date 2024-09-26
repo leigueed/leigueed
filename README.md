@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante no {Instituto Federal de Rondônia}<br/> Eu sou desenvolvedor {sua stack}</p>
+<p>Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer 💻</p>
 
 <p align="center">
   <img alt="Night Coding" src="./assets_readme/girl.jpg" width='600'/>
