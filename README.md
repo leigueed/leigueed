@@ -1,8 +1,6 @@
-<p align="center">EDUARDA LEIGUE</p>
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=leigueed&theme=dark" alt="ilustração do status do github">
 
-### Olá, meu nome é Eduarda Leigue!
+### Olá, aqui é a Eduarda Leigue!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
