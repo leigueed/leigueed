@@ -1,4 +1,4 @@
-### EDUARDA LEIGUE! 💻
+### <h1 EDUARDA LEIGUE!/> 💻
 
 <p align="center">
   <img alt="Night Coding" src="./assets_readme/girl.jpg" width='800'/>
