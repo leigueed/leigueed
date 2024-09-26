@@ -1,5 +1,7 @@
 ### EDUARDA LEIGUE, ENTUSIASTA A WEB DEVELOPER! 💻
 
+<img alt="Night Coding" src="./assets_readme/girl_gif.gif" width='40' align="left"/>
+
 <div align="center">
   <img align="center" alt="eduarda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="eduarda-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
