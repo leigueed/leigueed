@@ -24,4 +24,6 @@
   <a href="www.linkedin.com/in/eduarda-leigue" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+###
+
 <img align= 'right' alt="Night Coding" src="./assets_readme/girl.jpg" width='300'/>
