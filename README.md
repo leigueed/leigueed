@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=bca9f5&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
 
-<h3>Hello World! 💻</h3>
+<h3>Oh, Hello! 💻</h3>
 
 ```toml
 
