@@ -1,3 +1,41 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
+</p>
+
+<h3>Why, hello there.</h3>
+
+Here's my `Manifest.toml`:
+
+```toml
+
+[personal]
+name = 'Govind KP'
+city = 'Bengaluru, India'
+email = 'reisub0 "at" gmail.com'
+
+[professional]
+currently-employed = true
+title = 'Software Development Engineer'
+employer = 'MathWorks Inc.'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'unity/c#',
+  'rust',
+  'go',
+]
+
+
 ### Olá, aqui é a Eduarda Leigue!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
