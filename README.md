@@ -22,8 +22,10 @@ title = 'Systems Analysis and Development'
 college = 'Federal Institute of Education Science 
 and Technology of Rondônia.'
 
-[programming languages]
-  'web-developer',
-  'systems-analyst'
-]
+programming languages = {
+  'javascript,
+  'python',
+  'java'
+  'C'
+}
 ```
