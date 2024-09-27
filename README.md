@@ -14,10 +14,10 @@ title = 'Software Development Engineer'
 employer = 'MathWorks Inc.'
 
 [bio]
-interests = {
+interests = [
   'web-developer',
   'systems-analyst'
-}
+]
 ```
 
 ### Olá, aqui é a Eduarda Leigue!
