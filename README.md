@@ -13,9 +13,9 @@ city = 'Brazil'
 email = 'ed.leigue@hotmail.com'
 
 [professional]
-currently-employed = true
-title = 'Software Development Engineer'
-employer = 'MathWorks Inc.'
+currently-student = true
+title = 'Systems Analysis and Development'
+college = 'MathWorks Inc.'
 
 [bio]
 interests = [
