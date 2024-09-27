@@ -20,11 +20,9 @@ title = 'Systems Analysis and Development'
 college = 'Federal Institute of Education Science 
 and Technology of Rondônia.'
 
-[bio]
-[interests] = [
-  'systems-analyst',
-  'web developer',
-]
+[interests]
+'systems-analyst',
+'web developer',
 
 programming-languages = [
   'javascript,
