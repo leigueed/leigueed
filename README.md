@@ -21,8 +21,8 @@ college = 'Federal Institute of Education Science
 and Technology of Rondônia.'
 
 [interests]
-'systems-analyst',
-'web developer',
+'systems-analyst'
+'web developer'
 
 programming-languages = [
   'javascript,
