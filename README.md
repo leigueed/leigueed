@@ -1,8 +1,8 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
-</p>
+<img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
 
-<h3>Why, hello there.</h3>
+<p> Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer 💻</p>
+
+<h3>Hello World, Eduarda Leigue here.</h3>
 
 Here's my `Manifest.toml`:
 
@@ -38,9 +38,7 @@ programming-languages = [
 
 ### Olá, aqui é a Eduarda Leigue!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
 
-<p> Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer 💻</p>
 
 ##
 
