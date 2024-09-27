@@ -1,7 +1,7 @@
 <img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 <h3>Oh, Hello World! 💻</h3>
-<p> Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer </p>
+<h5> Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer </h5>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=bca9f5&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
 
