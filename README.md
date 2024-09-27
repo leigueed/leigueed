@@ -14,15 +14,17 @@ name = 'Eduarda Leigue'
 city = 'Brazil'
 email = 'ed.leigue@hotmail.com'
 
-[interests]
-systems-analyst
-web developer
-
 [learning]
 currently-student = true
 title = 'Systems Analysis and Development'
 college = 'Federal Institute of Education Science 
 and Technology of Rondônia.'
+
+[bio]
+interests = [
+  'systems-analyst',
+  'web developer',
+]
 
 programming-languages = [
   'javascript,
