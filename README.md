@@ -19,7 +19,8 @@ web developer
 [learning]
 currently-student = true
 title = 'Systems Analysis and Development'
-college = 'Federal Institute of Education Science <br> and Technology of Rondônia.'
+college = 'Federal Institute of Education Science 
+and Technology of Rondônia.'
 
 [programming languages]
   'web-developer',
