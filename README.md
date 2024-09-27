@@ -34,7 +34,7 @@ programming-languages = [
   'rust',
   'go',
 ]
-
+```
 
 ### Olá, aqui é a Eduarda Leigue!
 
