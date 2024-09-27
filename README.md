@@ -1,4 +1,4 @@
-<h3>Hello Cyber World! 💻</h3>
+<h3>Hello World! 💻</h3>
 <img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 ### About Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
@@ -12,13 +12,12 @@ name = 'Eduarda Leigue'
 city = 'Brazil'
 email = 'ed.leigue@hotmail.com'
 
-[professional]
+[learning]
 currently-student = true
 title = 'Systems Analysis and Development'
-college = 'MathWorks Inc.'
+college = 'Federal Institute of Education Science and Technology of Rondônia.'
 
-[bio]
-interests = [
+[interests]
   'web-developer',
   'systems-analyst'
 ]
