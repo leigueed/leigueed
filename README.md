@@ -2,12 +2,11 @@
 
 <h3>Oh, Hello! 💻</h3>
 
-```toml
-
+```
 [personal]
-name = 'Govind KP'
-city = 'Bengaluru, India'
-email = 'reisub0 "at" gmail.com'
+name = 'Eduarda Leigue'
+city = 'Brazil'
+email = 'ed.leigue@hotmail.com'
 
 [professional]
 currently-employed = true
@@ -15,21 +14,10 @@ title = 'Software Development Engineer'
 employer = 'MathWorks Inc.'
 
 [bio]
-categories = [
-  'generalist',
-]
-interests = [
-  'functional-programming',
-  'linux',
-  'open-source',
-]
-programming-languages = [
-  'c/cpp',
-  'python',
-  'unity/c#',
-  'rust',
-  'go',
-]
+interests = {
+  'web-developer',
+  'systems-analyst'
+}
 ```
 
 ### Olá, aqui é a Eduarda Leigue!
