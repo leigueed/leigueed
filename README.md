@@ -22,5 +22,5 @@ and Technology of Rondônia.'
 
 [interests]
 'systems-analyst'
-'web developer'
+'web-developer'
 ```
