@@ -18,12 +18,12 @@ email = 'ed.leigue@hotmail.com'
 systems-analyst
 web developer
 
-[learning] [
+[learning]
 currently-student = true
 title = 'Systems Analysis and Development'
 college = 'Federal Institute of Education Science 
 and Technology of Rondônia.'
-]
+
 programming-languages = [
   'javascript,
   'python',
