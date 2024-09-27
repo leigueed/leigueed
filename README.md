@@ -2,7 +2,7 @@
 
 <p> Estudante no Instituto Federal de Rondônia <br/> Entusiasta a web developer 💻</p>
 
-<h3>Hello World, Eduarda Leigue here.</h3>
+<h3>Hello World!</h3>
 
 Here's my `Manifest.toml`:
 
