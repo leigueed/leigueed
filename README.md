@@ -21,7 +21,7 @@ college = 'Federal Institute of Education Science
 and Technology of Rondônia.'
 
 [bio]
-interests = [
+[interests] = [
   'systems-analyst',
   'web developer',
 ]
