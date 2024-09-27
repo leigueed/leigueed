@@ -29,7 +29,7 @@ interests = [
 programming-languages = [
   'javascript,
   'python',
-  'java'
-  'C'
+  'java',
+  'C',
 ]
 ```
