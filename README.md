@@ -1,4 +1,4 @@
-<h2> ✨ Oh, Hello World!</h2>
+<h1> ✨ Oh, Hello World!</h1>
 <img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 <h3>Oh, Hello World!</h3>
