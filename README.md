@@ -2,8 +2,7 @@
 <img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 ### About Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
-<p> An introverted character written by Dostoevsky, living in a <br> nightmare of thoughts, with one goal: to find the truth.</p>
-<h6>(Uma personagem introvertida escrita por Dostoiévski que vive em um <br> pesadelo de pensamentos com um único desejo, desvendar a verdade).</h6>
+<p> An introverted character written by Dostoevsky, living in a <br> nightmare of thoughts, with one goal: to find the truth.</p> <h6>(Uma personagem introvertida escrita por Dostoiévski que vive em um <br> pesadelo de pensamentos com um único desejo, desvendar a verdade).</h6>
 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=bca9f5&style=for-the-badge&logo=GitHub" alt="Static GitHub"/>
