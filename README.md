@@ -1,5 +1,4 @@
 <h3>Hello World! 💻</h3>
-<h6>Olá Mundo!</h6>
 <img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 ### About Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
