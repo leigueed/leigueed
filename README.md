@@ -1,8 +1,8 @@
-<h2>Hello World! 💻</h2>
+<h3>Hello World! 💻</h3>
 <img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
 
 ### About Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
-<h3> An introverted character written by Dostoevsky, living in a <br> nightmare of thoughts, with one goal: to find the truth.</h3>
+<h5> An introverted character written by Dostoevsky, living in a <br> nightmare of thoughts, with one goal: to find the truth.</h6>
 <p>(Uma personagem introvertida escrita por Dostoiévski que vive em um <br> pesadelo de pensamentos com um único desejo, desvendar a verdade).</p>
 
 
