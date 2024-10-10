@@ -1,5 +1,5 @@
 <h3>Hello World! 💻</h3>
-<img align= "center" alt="Night Coding" src="./assets_readme/girl.jpg" width='400'/>
+<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='500'/>
 
 ### About Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
 <p>An introverted character written by Dostoevsky, living in a <br> nightmare of thoughts, with one goal: to find the truth.</p>
