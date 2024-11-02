@@ -2,7 +2,7 @@
 <img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='500'/>
 
 ### About Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
-<p>Uma personagem tímida escrita por Dostoievski, que vive em um pesadelo de pensamentos a busca da verdade.</p>
+<p>Uma personagem tímida, escrita por Dostoievski, que vive em um pesadelo <br> de pensamentos a busca da verdade.</p>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=bca9f5&style=for-the-badge&logo=GitHub" alt="Static GitHub"/> 
 
