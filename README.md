@@ -24,3 +24,14 @@ and Technology of Rondônia.'
 'systems-analyst'
 'web-developer'
 ```
+<div align="center">
+      <td><img src="./assets_readme/discord-light.svg" width="50"></td>
+      <td><img src="./assets_readme/vscode-light.svg" width="50"></td>
+      <td><img src="./assets_readme/mysql-light.svg" width="50"></td>
+      <td><img src="./assets_readme/python-light.svg" width="50"></td>
+      <td><img src="./assets_readme/c-light.svg" width="50"></td>
+      <td><img src="./assets_readme/html-light.svg" width="50"></td>
+      <td><img src="./assets_readme/css-light.svg" width="50"></td>
+      <td><img src="./assets_readme/javascript.svg" width="50"></td>
+      <td><img src="./assets_readme/git.svg" width="50"></td>
+</div>
