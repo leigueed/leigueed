@@ -21,3 +21,5 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 </div>
 
 [![Linkedin: eduardaleigue](https://img.shields.io/badge/-eduardaleigue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardaleigue/)](https://www.linkedin.com/in/eduarda-leigue)
+
+[![Gmail Badge](https://img.shields.io/badge/ed.leigue@hotemail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ed.leigue@hotmail.com)](mailto:ed.leigue@hotmail.com)
