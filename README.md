@@ -30,6 +30,10 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 </div>
 
 ##
+
+<img align= "center" src="./assets_readme/cybergirl(1).gif" height="300"/>
+
+
 <h3 align="center">Contato</h3>
 <p align="center">Me procure através...</p>
 <div align="center" style="display: block;">
@@ -43,7 +47,3 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-##
-
-<img align= "center" src="./assets_readme/cybergirl.gif" height="300"/>
