@@ -1,4 +1,4 @@
-<h2>Sobre Eduarda Leigue! <img align='right' src="./assets_readme/cat.gif" height="7%" width="8%"></h2> 
+<h2>Sobre Eduarda Leigue! <img src="./assets_readme/cat.gif" height="7%" width="8%"></h2> 
 
 Sou apaixonada por tecnologia e desenvolvimento web. Meu foco é criar interfaces intuitivas e funcionais, e estou sempre buscando aprimorar minhas habilidades em front-end e explorar novas áreas, como back-end.
 
