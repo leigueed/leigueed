@@ -46,5 +46,5 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   </a>
 </div>
 
-##
+
 <img align= "center" src="./assets_readme/cybergirl(1).gif"/>
