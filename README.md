@@ -30,7 +30,6 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   <img height="30" width="40" src="./assets_readme/intellijidea-light.svg"/>
 </div>
 
-##
 
 <h3 align="center">Contato</h3>
 <p align="center">Me procure através</p>
@@ -46,5 +45,5 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   </a>
 </div>
 
-
+##
 <img align= "center" src="./assets_readme/cybergirl(1).gif"/>
