@@ -7,8 +7,6 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 - <em>Aprimorando habilidades de desenvolvimento web.</em>
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
-##
-
 <h3 align="center">Skills</h3>
 
 <p align="center"> Front-end | Back-End | Banco de Dados | DevOps | IDE</p>
@@ -30,6 +28,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   <img height="30" width="40" src="./assets_readme/intellijidea-light.svg"/>
 </div>
 
+##
 
 <h3 align="center">Contato</h3>
 <p align="center">Me procure através</p>
