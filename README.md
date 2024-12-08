@@ -33,7 +33,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 ##
 
 <h3 align="center">Contato</h3>
-<p align="center">Me procure através...</p>
+<p align="center">Me procure através</p>
 <div align="center" style="display: block;">
   <a href="mailto:ed.leigue@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
