@@ -28,3 +28,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   <img height="30" width="40" src="./assets_readme/vscode-light.svg"/>
   <img height="30" width="40" src="./assets_readme/intellijidea-light.svg"/>
 </div>
+
+##
+
+<img align= "center" src="./assets_readme/cybergirl.gif" height="300"/>
