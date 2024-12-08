@@ -30,5 +30,20 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 </div>
 
 ##
+<h3 align="center">Contato</h3>
+<p align="center">Me procure através...</p>
+<div align="center" style="display: block;">
+  <a href="mailto:ed.leigue@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
+  </a>
+ <a href="https://discord.com/channels/@ladudis/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/eduarda-leigue/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+##
 
 <img align= "center" src="./assets_readme/cybergirl.gif" height="300"/>
