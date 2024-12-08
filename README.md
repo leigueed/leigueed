@@ -7,6 +7,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 - <em>Aprimorando habilidades de desenvolvimento web.</em>
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
+##
 <h3 align="center">Skills</h3>
 
 <p align="center"> Front-end | Back-End | Banco de Dados | DevOps | IDE</p>
