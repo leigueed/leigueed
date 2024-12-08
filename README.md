@@ -1,29 +1,18 @@
-<h3>Hello World! 💻</h3>
-<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='500'/>
+<img src="./assets_readme/cat.gif" height="6%" width="5%">
 
-### Sobre Eduarda Leigue <img src="./assets_readme/cat.gif" height="7%" width="7%"/>
-<p>Uma personagem tímida, escrita por Dostoievski, <br> que vive em um pesadelo de pensamentos a busca da verdade.</p>
+<h3>Sobre Eduarda Leigue!</h3>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=LEIGUEED&color=bca9f5&style=for-the-badge&logo=GitHub" alt="Static GitHub"/> 
+Sou apaixonada por tecnologia e desenvolvimento web. Meu foco é criar interfaces intuitivas e funcionais, e estou sempre buscando aprimorar minhas habilidades em front-end e explorar novas áreas, como back-end.
 
-Here's my `Manifest.toml`:
+- 👩‍🎓 <em> (Graduanda) Analista de Sistemas pelo Instituto Federal de Rondônia.</em>
+- 👩‍💻 <em>Foco em Dev Front-end Junior.</em>
+- 📚 <em>Aprimorando habilidades de desenvolvimento web.</em>
+- 👀 <em>Pequena curiosidade em back-end.</em>
 
-```toml
-[personal]
-name = 'Eduarda Leigue'
-city = 'Brazil'
-email = 'ed.leigue@hotmail.com'
+<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='400'/>
 
-[learning]
-currently-student = true
-title = 'Systems Analysis and Development'
-college = 'Federal Institute of Education Science 
-and Technology of Rondônia.'
+### 
 
-[interests]
-'systems-analyst'
-'web-developer'
-```
 <div align="center">
       <td><img src="./assets_readme/vscode-light.svg" width="50"></td>
       <td><img src="./assets_readme/python-light.svg" width="50"></td>
