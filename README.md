@@ -7,7 +7,7 @@ Sou apaixonada por tecnologia e desenvolvimento web. Meu foco é criar interface
 - <em>Aprimorando habilidades de desenvolvimento web.</em>
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
-<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='300'/>
+<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='400'/>
 
 ### 
 
