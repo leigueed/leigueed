@@ -7,7 +7,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 - <em>Aprimorando habilidades de desenvolvimento web.</em>
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
-<img align= "center" src="./assets_readme/cybergirl(1).gif" height=""/>
+<img align= "center" src="./assets_readme/cybergirl(1).gif"/>
 
 <h3 align="center">Skills</h3>
 
@@ -45,3 +45,6 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
+##
+<img align= "center" src="./assets_readme/cybergirl(1).gif"/>
