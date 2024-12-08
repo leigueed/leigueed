@@ -7,7 +7,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 - <em>Aprimorando habilidades de desenvolvimento web.</em>
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
-<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width="500" height="200"/>
+<img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width="500" height="100"/>
 
 <div style="display: inline_block"><br>
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
