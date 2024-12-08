@@ -1,4 +1,4 @@
-<img src="./assets_readme/cat.gif" height="8%" width="8%">
+<img src="./assets_readme/cat.gif" height="9%" width="9%">
 
 <h3>Sobre Eduarda Leigue!</h3>
 
