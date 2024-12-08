@@ -1,6 +1,6 @@
 <h2>Sobre Eduarda Leigue! <img src="./assets_readme/cat.gif" height="7%" width="8%"></h2>
 
-Sou apaixonada por tecnologia e desenvolvimento web. Meu foco é criar interfaces intuitivas e funcionais, e estou sempre buscando aprimorar minhas habilidades em front-end e explorar novas áreas, como back-end.
+Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces intuitivas e funcionais, e estou sempre buscando aprimorar minhas habilidades em front-end e explorar novas áreas, como back-end.
  
 - <em> Analista de Sistemas pelo Instituto Federal de Rondônia.</em>
 - <em>Foco em dev front-end junior.</em>
