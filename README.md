@@ -1,4 +1,4 @@
-<h2>Sobre Eduarda Leigue! <img src="./assets_readme/cat.gif" height="7%" width="8%"></h2> 
+<h2>Sobre Eduarda Leigue! <img src="./assets_readme/cat.gif" height="7%" width="8%"></h2>
 
 Sou apaixonada por tecnologia e desenvolvimento web. Meu foco é criar interfaces intuitivas e funcionais, e estou sempre buscando aprimorar minhas habilidades em front-end e explorar novas áreas, como back-end.
  
@@ -19,3 +19,5 @@ Sou apaixonada por tecnologia e desenvolvimento web. Meu foco é criar interface
       <td><img src="./assets_readme/javascript.svg" width="50"></td>
       <td><img src="./assets_readme/git.svg" width="50"></td>
 </div>
+
+[![Linkedin: eduardaleigue](https://img.shields.io/badge/-eduardaleigue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardaleigue/)](https://www.linkedin.com/in/eduarda-leigue)
