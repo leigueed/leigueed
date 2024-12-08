@@ -7,6 +7,8 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 - <em>Aprimorando habilidades de desenvolvimento web.</em>
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
+<img align= "center" src="./assets_readme/cybergirl(1).gif" height="200"/>
+
 ##
 <h3 align="center">Skills</h3>
 
@@ -30,9 +32,6 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 </div>
 
 ##
-
-<img align= "center" src="./assets_readme/cybergirl(1).gif" height="300"/>
-
 
 <h3 align="center">Contato</h3>
 <p align="center">Me procure através...</p>
