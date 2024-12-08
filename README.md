@@ -8,18 +8,3 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 - 👀 <em>Pequena curiosidade em back-end.</em>
 
 <img align= "center" alt="Night Coding" src="./assets_readme/cybergirl.gif" width='400'/>
-
-### 
-
-<div align="center">
-      <td><img src="./assets_readme/vscode-light.svg" width="50"></td>
-      <td><img src="./assets_readme/python-light.svg" width="50"></td>
-      <td><img src="./assets_readme/html-light.svg" width="50"></td>
-      <td><img src="./assets_readme/css-light.svg" width="50"></td>
-      <td><img src="./assets_readme/javascript.svg" width="50"></td>
-      <td><img src="./assets_readme/git.svg" width="50"></td>
-</div>
-
-[![Linkedin: eduardaleigue](https://img.shields.io/badge/-eduardaleigue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardaleigue/)](https://www.linkedin.com/in/eduarda-leigue)
-
-[![Gmail Badge](https://img.shields.io/badge/ed.leigue@hotemail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ed.leigue@hotmail.com)](mailto:ed.leigue@hotmail.com)
