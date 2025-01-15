@@ -28,7 +28,6 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   <img height="30" width="40" src="./assets_readme/gitlab-light.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img height="30" width="40" src="./assets_readme/vscode-light.svg"/>
-  <img height="30" width="40" src="./assets_readme/intellijidea-light.svg"/>
 </div>
 
 ##
