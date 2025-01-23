@@ -10,6 +10,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
 <br>
 <img align= "center" src="./assets_readme/cybergirl(1).gif"/>
 
+<!---
 <h3 align="center">Skills</h3>
 
 <p align="center"> Front-end | Back-End | Banco de Dados | DevOps | IDE</p>
@@ -29,7 +30,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img height="30" width="40" src="./assets_readme/vscode-light.svg"/>
 </div>
-
+-->
 ##
 <h3 align="center">Contato</h3>
 <div align="center" style="display: block;">
