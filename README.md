@@ -1,3 +1,5 @@
+<!---
+
 <h2>Sobre Eduarda Leigue! <img src="./assets_readme/cat.gif" height="7%" width="8%"></h2>
 
 Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces intuitivas e funcionais, e estou sempre buscando aprimorar minhas habilidades em front-end e explorar novas áreas, como back-end.
@@ -30,7 +32,7 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img height="30" width="40" src="./assets_readme/vscode-light.svg"/>
 </div>
--->
+
 ##
 <h3 align="center">Contato</h3>
 <div align="center" style="display: block;">
@@ -44,3 +46,4 @@ Interessada por tecnologia e desenvolvimento web. Meu foco é criar interfaces i
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+-->
